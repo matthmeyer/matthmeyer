@@ -6,7 +6,7 @@ I'm Matthias, a founder and developer, with focus on tech in journalism.
 
 🔭 Exploring AI, data engineering, information retrieval and app developement. Open Source contributor.
 
-📬 matthiasmeyer (at) cluster (dot) today
+📬 matthias.meyer (at) cluster (dot) today
 
 <hr/>
 
